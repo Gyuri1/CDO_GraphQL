@@ -5,7 +5,8 @@ This python script shows the device info in Cisco Defense Orchestrator (CDO).
 
 Example:
 
-```python3 graphql_cdo_query.py. 
+```
+python3 graphql_cdo_query.py 
 Devices in CDO: https://edge.us.cdo.cisco.com/api/public 
 {  
   "data": {   
